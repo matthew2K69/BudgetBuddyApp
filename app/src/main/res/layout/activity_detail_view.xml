@@ -1,0 +1,62 @@
+<!-- res/layout/activity_detail_view.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/date"
+        android:textSize="24sp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewMorningExpenses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/morning_expenses_r0_00"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/textViewAfternoonExpenses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/afternoon_expenses_r0_00"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/textViewExpenseNotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/expense_notes"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonCalculateHighest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate_highest_expenses"/>
+
+    <Button
+        android:id="@+id/buttonAverageSpending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/average_spending"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"/>
+
+    <Button
+        android:id="@+id/buttonBackToMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/back_to_main_screen" />
+</LinearLayout>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">BudgetBuddyApp</string>
+    <string name="select_a_date">Select a date</string>
+    <string name="view_details">View Details</string>
+    <string name="exercise_minutes">Exercise (minutes)</string>
+    <string name="water_intake_cups">Water Intake (cups)</string>
+    <string name="back">Back</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="habit_details">Habit Details</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="save_details">Save Details</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="sleep_hours">Sleep (hours)</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="healthy_habits_tracker">Healthy Habits Tracker</string>
+    <string name="totalexpense" />
+    <string name="name">Name</string>
+    <string name="show_average_spending">Show Average Spending</string>
+    <string name="matthew_thandroyen">Matthew Thandroyen</string>
+    <string name="student_number_10442691">Student Number: 10442691</string>
+    <string name="budget_buddy">Budget Buddy</string>
+    <string name="todo">TODO</string>
+    <string name="afternoon_expenses_r0_00">Afternoon Expenses: R0.00</string>
+    <string name="morning_expenses_r0_00">Morning Expenses: R0.00</string>
+    <string name="date">Date</string>
+    <string name="calculate_highest_expenses">Calculate Highest Expenses</string>
+    <string name="expense_notes">Expense Notes</string>
+    <string name="back_to_main_screen">Back to Main Screen</string>
+    <string name="clear">Clear</string>
+    <string name="view_daily_details">View Daily Details</string>
+    <string name="afternoon_expense">Afternoon Expense</string>
+    <string name="enter_date_e_g_2004_11_06">Enter Date (e.g. 2004-11-06)</string>
+    <string name="morning_expense">Morning Expense</string>
+    <string name="save">Save</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="average_spending">Average Spending</string>
+    <string name="buddget_buddy_app">Buddget Buddy App</string>
+    <string name="budget_buddy_app">Budget Buddy App</string>
+    <string name="matthew">Matthew</string>
+    <string name="continue">Continue</string>
+    <string name="daily_expense_tracker">Daily Expense Tracker</string>
+    <string name="continue">Continue</string>
+</resources>

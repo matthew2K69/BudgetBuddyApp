@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dateTextView" type="id" />
+    <item name="pickDateButton" type="id" />
+    <item name="viewDetailsButton" type="id" />
+    <item name="waterInput" type="id" />
+    <item name="clearButton" type="id" />
+    <item name="saveButton" type="id" />
+    <item name="sleepInput" type="id" />
+    <item name="exerciseInput" type="id" />
+    <item name="startButton" type="id" />
+    <item name="exitButton" type="id" />
+    <item name="textViewDate" type="id" />
+    <item name="textViewMorningExpenses" type="id" />
+    <item name="buttonAverageSpending" type="id" />
+    <item name="buttonBackToMain" type="id" />
+    <item name="buttonCalculateHighest" type="id" />
+    <item name="editTextDate" type="id" />
+</resources>
